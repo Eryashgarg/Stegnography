@@ -20,12 +20,12 @@ This project is a Java-based GUI application for image steganography, developed 
 ## Usage
 
 1. **Clone the Repository:**
-git clone https://github.com/Eryashgarg/Stegnography.git
+- git clone https://github.com/Eryashgarg/Stegnography.git
 
 2. **Compile and Run:**
-cd Stegnography
-javac Main.java
-java Main
+- cd Stegnography
+- javac Main.java
+- java Main
 
 
 3. **Instructions:**
